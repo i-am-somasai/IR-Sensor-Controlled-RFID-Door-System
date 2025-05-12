@@ -1,4 +1,4 @@
-🚪 IR-Sensor-Controlled-RFID-Door-System
+🚪 IR-Sensor-Controlled-RFID-Door-System:
 This project demonstrates a smart, wireless door control system using two ESP32 boards communicating via ESP-NOW. It integrates infrared (IR) sensors, an RFID reader, and a servo motor to control access securely. The system enables or disables RFID-based access dynamically based on object presence detection.
 
 🔧 Components Used
